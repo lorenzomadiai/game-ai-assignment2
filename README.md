@@ -1,7 +1,7 @@
 # Multi-Agent Pacman Capture the Flag
 
 Multi-Agent AI project developed for the *Multi-Agent Systems* course at Leiden University.  
-The project focuses on designing intelligent agents for the Pacman Capture the Flag environment using Monte Carlo Tree Search (MCTS) and alternative decision-making strategies. :contentReference[oaicite:0]{index=0}
+The project focuses on designing intelligent agents for the Pacman Capture the Flag environment using Monte Carlo Tree Search (MCTS) and alternative decision-making strategies.
 
 ## Authors
 
